@@ -14,7 +14,7 @@ import java.util.regex.Pattern;
  *
  * @author Minato
  */
-public class StackExchangeScraper2 {
+public class StackExchangeScraper {
     public static void main(String args[]) {
         Scanner input = new Scanner (System.in);
         StringBuilder sb = new StringBuilder();
